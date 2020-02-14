@@ -46,7 +46,7 @@ $ go get -u github.com/capitalonline/cds-gic-sdk-go
 ## Examples
 
 ```go
-    // Init a credential with Access Key Id and Secret Access Key
+    	// Init a credential with Access Key Id and Secret Access Key
 	// You can apply them from the CDS web portal
 	credential := common.NewCredential(
 		os.Getenv("CDS_SECRET_ID"),
