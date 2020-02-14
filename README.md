@@ -7,8 +7,6 @@ English | [简体中文](README-CN.md)
 
 <h1 align="center">CapitalOnline Cloud SDK for Go</h1>
 
-## Overview
-
 The project is aim to build the golang sdk for [CapitalOnline](https://www.capitalonline.net) Cloud Platform. It allows to access CapitalOnline Cloud Service such as GIC,GBS,GPN and manage your resources easily.
 
 It is based on the official [Open API](https://github.com/capitalonline/openapi/blob/master/README.md).
