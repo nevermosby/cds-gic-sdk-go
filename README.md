@@ -17,8 +17,10 @@ It is based on the official [Open API](https://github.com/capitalonline/openapi/
 
 ## Examples
 
-## Contribution
+## Contributing
 
 ## References
 
 ## License
+
+[Apache License v2.0](./LICENSE)
